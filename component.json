@@ -4,7 +4,9 @@
   "description": "flattens an array",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "yields/isArray": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
