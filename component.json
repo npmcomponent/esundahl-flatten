@@ -1,0 +1,14 @@
+{
+  "name": "flatten",
+  "repo": "esundahl/flatten",
+  "description": "flattens an array",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
