@@ -5,7 +5,7 @@
 var isArray = require('isArray');
 
 
-module.exports = function (array, isShallow) {
+function flatten (array, isShallow) {
   var index = -1,
       length = array ? array.length : 0,
       result = [];
@@ -24,3 +24,5 @@ module.exports = function (array, isShallow) {
 
   return result;
 }
+
+module.exports = flatten;

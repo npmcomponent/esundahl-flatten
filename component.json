@@ -7,6 +7,9 @@
   "dependencies": {
     "yields/isArray": "*"
   },
+  "devDependencies": {
+    "component/assert": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
