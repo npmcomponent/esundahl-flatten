@@ -2,8 +2,8 @@
   "name": "flatten",
   "repo": "esundahl/flatten",
   "description": "flattens an array",
-  "version": "0.0.1",
-  "keywords": [],
+  "version": "1.0.0",
+  "keywords": ["array", "utility", "flatten"],
   "dependencies": {
     "yields/isArray": "*"
   },
