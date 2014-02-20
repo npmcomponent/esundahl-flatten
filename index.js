@@ -2,7 +2,7 @@
  * Dependencies
  */
 
-var isArray = require('isArray');
+var isArray = require('yields-isArray');
 
 
 function flatten (array, isShallow) {

@@ -1,0 +1,15 @@
+{
+  "name": "esundahl-flatten",
+  "description": "flattens an array",
+  "version": "1.0.0",
+  "keywords": [
+    "array",
+    "utility",
+    "flatten"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-isArray": "git://github.com/npmcomponent/yields-isArray.git"
+  },
+  "license": "MIT"
+}
